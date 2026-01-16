@@ -64,54 +64,6 @@ Each model was compared to understand performance, interpretability, and predict
    * Outputs recommendations based on learned patterns
 
 
-## Project Structure
-
-```text
-├── data/                # Dataset(s) used for training and testing
-├── notebooks/           # Jupyter notebooks for exploration and experiments
-├── models/              # Saved trained models
-├── src/                 # Source code
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── predict.py
-│   └── utils.py
-├── results/             # Evaluation results and visualizations
-├── requirements.txt     # Project dependencies
-└── README.md
-```
-
-
-## ⚙️ Installation & Setup
-
-```bash
-git clone https://github.com/your-username/ai-career-path-predictor.git
-cd ai-career-path-predictor
-pip install -r requirements.txt
-```
-
-## Usage
-
-1. Prepare or load the dataset
-2. Train models:
-
-```bash
-python src/train.py
-```
-
-3. Predict career paths:
-
-```bash
-python src/predict.py
-```
-
-
-## Results
-
-* Ensemble models (e.g., **Random Forest**) generally performed better on complex feature interactions.
-* Neural Networks showed strong potential with sufficient data and tuning.
-* Simpler models like Logistic Regression provided better interpretability.
-
-
 ## Future Improvements
 
 * Add a web-based UI for user interaction
