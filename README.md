@@ -1,6 +1,3 @@
-Absolutely—here’s a clean, professional **README.md** you can drop straight into GitHub. I’ve written it in a way that fits well for a **personal ML project**, highlights your modeling work, and still feels approachable.
-
----
 
 # AI-Based Career Path Predictor
 
@@ -8,7 +5,6 @@ An intelligent machine learning–powered system that recommends suitable **acad
 
 This project explores multiple supervised learning approaches to analyze user-provided inputs and predict career directions aligned with personal potential.
 
----
 
 ## Project Overview
 
@@ -21,7 +17,6 @@ Choosing the right career or academic path can be overwhelming. This project aim
 
 The system processes these inputs and predicts career paths that best match the individual profile.
 
----
 
 ## Machine Learning Models Used
 
@@ -34,7 +29,6 @@ The following models were implemented, trained, and evaluated:
 
 Each model was compared to understand performance, interpretability, and prediction quality.
 
----
 
 ## Tech Stack
 
@@ -47,7 +41,6 @@ Each model was compared to understand performance, interpretability, and predict
   * TensorFlow / Keras (for ANN)
   * Matplotlib / Seaborn (for visualization)
 
----
 
 ## System Workflow
 
@@ -70,7 +63,6 @@ Each model was compared to understand performance, interpretability, and predict
    * Predicts the most suitable career or academic direction
    * Outputs recommendations based on learned patterns
 
----
 
 ## 📁 Project Structure
 
@@ -88,7 +80,6 @@ Each model was compared to understand performance, interpretability, and predict
 └── README.md
 ```
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -98,9 +89,7 @@ cd ai-career-path-predictor
 pip install -r requirements.txt
 ```
 
----
-
-## ▶️ Usage
+## Usage
 
 1. Prepare or load the dataset
 2. Train models:
@@ -115,7 +104,6 @@ python src/train.py
 python src/predict.py
 ```
 
----
 
 ## Results
 
@@ -123,7 +111,6 @@ python src/predict.py
 * Neural Networks showed strong potential with sufficient data and tuning.
 * Simpler models like Logistic Regression provided better interpretability.
 
----
 
 ## Future Improvements
 
@@ -132,7 +119,6 @@ python src/predict.py
 * Expand dataset diversity
 * Use NLP to analyze free-text user responses
 
----
 
 ## Contributing
 
