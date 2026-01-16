@@ -64,7 +64,7 @@ Each model was compared to understand performance, interpretability, and predict
    * Outputs recommendations based on learned patterns
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── data/                # Dataset(s) used for training and testing
